@@ -1,0 +1,15 @@
+INSERT INTO statements VALUES (1,"Perfect");
+INSERT INTO statements VALUES (2,"Acceptable");
+INSERT INTO statements VALUES (3,"Broken");
+INSERT INTO motordeport.carpark VALUES(1,'bus neoplan',50,1000,1);
+INSERT INTO motordeport.carpark VALUES (2,'truck zil',2,12000,1);
+INSERT INTO motordeport.carpark VALUES (3,'car mazda',4,320,1);
+INSERT INTO motordeport.empployees VALUES(2,'ivan','sheglov',3334578,2,1,'sheglov','123q');
+INSERT INTO motordeport.empployees VALUES(1,'admin','admin',1114579,1,0,'admin','root');
+INSERT INTO motordeport.empployees VALUES(3,'egor','shamyakin',7788945,2,2,'shamyakin','123q');
+INSERT INTO motordeport.empployees VALUES(4,'filya','bauman',1113244,2,3,'bauman','123q');
+INSERT INTO motordeport.post VALUES (1,'admin');
+INSERT INTO motordeport.post VALUES (2,'driver');
+INSERT INTO motordeport.aplications VALUES (1,null,30,1000);
+INSERT INTO motordeport.aplications VALUES (2,null,0,5000);
+INSERT INTO motordeport.aplications VALUES (3,null,3,100);
